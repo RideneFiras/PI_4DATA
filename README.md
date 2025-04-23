@@ -17,6 +17,7 @@ Our aim is to assess the performance of each model using standard regression met
 | **Gradient Boosting**     | 9.486        | -            | 0.949    |
 | **Ridge Regression**      | 10.046       | -            | 0.860    |
 | **HistGradientBoosting**  | 10.046       | -            | 0.942    |
+| **LassoRegression**  | 15.53       | 10.86            |  0.8632    |
 
 
 
