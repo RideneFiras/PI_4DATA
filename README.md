@@ -9,16 +9,16 @@ Our aim is to assess the performance of each model using standard regression met
 
 ##  Performance Comparison Table
 
-| Model                      | RMSE (Mbit/s)   | MAE (Mbit/s) | R² Score |
-|---------------------------|----------------:|-------------:|---------:|
-| **Old Model (Baseline)**  | 10.797          | 6.86        | 0.923    |
-| **Gradient Boosting**     | 9.486        | 5.8            | 0.949    |
-| **XGBoost**                   | 9.847          | 6.092        | 0.949    |
-| **ANN**                   | 13.582          | 8.878        | 0.905    |
-| **Random Forest**         | 10.046       | 5.964        | 0.942    |
-| **Ridge Regression**      | 10.046       | -            | 0.860    |
-| **HistGradientBoosting**  | 10.046       | -            | 0.942    |
-| **LassoRegression**  | 15.53       | 10.86            |  0.8632    |
+| Model                     | RMSE (Mbit/s) | MAE (Mbit/s) | R² Score |
+|--------------------------|---------------|--------------|----------|
+| **Old Model (Baseline)** | 10.797        | 6.86         | 0.923    |
+| **➡️ Gradient Boosting** | **9.486**     | **5.8**      | **0.949**|
+| XGBoost                  | 9.847         | 6.092        | 0.949    |
+| Random Forest            | 10.046        | 5.964        | 0.942    |
+| HistGradientBoosting     | 10.046        | 6.35         | 0.936    |
+| ANN                      | 13.582        | 8.878        | 0.905    |
+| Lasso Regression         | 15.530        | 10.86        | 0.863    |
+| Ridge Regression         | 16.450        | 11.38        | 0.860    |
 
 
 
