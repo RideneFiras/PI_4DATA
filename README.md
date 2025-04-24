@@ -11,7 +11,7 @@ Our aim is to assess the performance of each model using standard regression met
 
 | Model                     | RMSE (Mbit/s) | MAE (Mbit/s) | R² Score |
 |--------------------------|---------------|--------------|----------|
-| **Old Model (Baseline)** | 10.797        | 6.86         | 0.923    |
+| **Baseline [(Kaggle Model)](https://www.kaggle.com/datasets/gauravduttakiit/qos-prediction-challenge-aiml-in-5g-challenge?select=Train.csv)** | 10.797        | 6.86         | 0.923    |
 | **➡️ Gradient Boosting** | **9.486**     | **5.8**      | **0.949**|
 | XGBoost                  | 9.847         | 6.092        | 0.949    |
 | Random Forest            | 10.046        | 5.964        | 0.942    |
